@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Post Management\n"
+"POT-Creation-Date: 2013-10-28 12:06-0000\n"
+"PO-Revision-Date: 2013-10-28 12:06-0000\n"
+"Last-Translator: Name.ly <info@name.ly>\n"
+"Language-Team: Name.ly <info@name.ly>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:52
+msgid "Edit"
+msgstr ""
+
+#: ../index.php:52
+msgid "Manage"
+msgstr ""
+
+#: ../index.php:129
+msgid " | "
+msgstr ""
+
+#: ../index.php:134 ../qpm_settings.php:75
+msgid "Set as draft"
+msgstr ""
+
+#: ../index.php:139
+msgid "Set as private"
+msgstr ""
+
+#: ../index.php:142
+msgid "Set as public"
+msgstr ""
+
+#: ../index.php:150
+msgid "Close comments"
+msgstr ""
+
+#: ../index.php:153
+msgid "Open comments"
+msgstr ""
+
+#: ../index.php:161
+msgid "Close trackbacks"
+msgstr ""
+
+#: ../index.php:164
+msgid "Open trackbacks"
+msgstr ""
+
+#: ../index.php:171 ../qpm_settings.php:79
+msgid "Move to trash"
+msgstr ""
+
+#: ../index.php:175 ../qpm_settings.php:80
+msgid "Force delete"
+msgstr ""
+
+#: ../index.php:180
+msgid "Convert into post"
+msgstr ""
+
+#: ../index.php:183
+msgid "Convert into page"
+msgstr ""
+
+#: ../index.php:194
+msgid "QPM settings"
+msgstr ""
+
+#: ../index.php:199
+msgid "QPM actions: "
+msgstr ""
+
+#: ../index.php:199
+msgid "QPM: "
+msgstr ""
+
+#: ../qpm_admin.php:27 ../qpm_settings.php:62
+msgid "Settings"
+msgstr ""
+
+#: ../qpm_admin.php:144 ../qpm_settings.php:62
+msgid "Quick Post Management"
+msgstr ""
+
+#: ../qpm_admin.php:144
+msgid "QPM"
+msgstr ""
+
+#: ../qpm_settings.php:52
+msgid "Settings saved."
+msgstr ""
+
+#: ../qpm_settings.php:57
+msgid "You are done reinstalling!"
+msgstr ""
+
+#: ../qpm_settings.php:62
+#, php-format
+msgid "saved version: %s"
+msgstr ""
+
+#: ../qpm_settings.php:66
+msgid "Where to add the quick link(s)"
+msgstr ""
+
+#: ../qpm_settings.php:67
+msgid "Add to the top"
+msgstr ""
+
+#: ../qpm_settings.php:68
+msgid "Add to the bottom"
+msgstr ""
+
+#: ../qpm_settings.php:70
+msgid "Handle <code>the_content</code> cycle(s) with priority"
+msgstr ""
+
+#: ../qpm_settings.php:71
+msgid "Handle <code>the_excerpt</code> cycle(s) with priority"
+msgstr ""
+
+#: ../qpm_settings.php:72 ../qpm_settings.php:86 ../qpm_settings.php:90
+msgid "Save"
+msgstr ""
+
+#: ../qpm_settings.php:74
+msgid "What quick link(s) to add [whatever is applicable]"
+msgstr ""
+
+#: ../qpm_settings.php:76
+msgid "Set as private/public"
+msgstr ""
+
+#: ../qpm_settings.php:77
+msgid "Close/open comments"
+msgstr ""
+
+#: ../qpm_settings.php:78
+msgid "Close/open trackbacks"
+msgstr ""
+
+#: ../qpm_settings.php:81
+msgid "Convert into page/post"
+msgstr ""
+
+#: ../qpm_settings.php:82
+msgid "Own links:"
+msgstr ""
+
+#: ../qpm_settings.php:85
+msgid "Link to this admin page"
+msgstr ""
+
+#: ../qpm_settings.php:88
+msgid "Extra action(s) to take"
+msgstr ""
+
+#: ../qpm_settings.php:89
+msgid "Notify the post author about the changes via email"
+msgstr ""
+
+#: ../qpm_settings.php:93
+msgid "Misc (Super Admins)"
+msgstr ""
+
+#: ../qpm_settings.php:94
+msgid ""
+"Show Quick Post Management quick link(s) and the admin section only to the "
+"super admins"
+msgstr ""
+
+#: ../qpm_settings.php:98
+msgid "Reinstall"
+msgstr ""
+
+#: ../qpm_settings.php:99
+msgid ""
+"If you want to reinstall Quick Post Management, use the button below. N.B. "
+"it will ERASE all saved QPM settings."
+msgstr ""
+
+#: ../qpm_settings.php:100
+msgid "All settings will be lost! ARE YOU SURE?"
+msgstr ""
+
+#: ../qpm_settings.php:100
+msgid "Reset all settings"
+msgstr ""
+
+#: ../qpm_settings.php:104
+msgid "Name.ly/Plugins"
+msgstr ""
+
+#: ../qpm_settings.php:105
+msgid ""
+"This plugin is proundly presented to you by <a href=\"http://name.ly/plugins/"
+"\" target=\"_blank\"><i>Name.ly/Plugins</i></a>."
+msgstr ""
+
+#: ../qpm_settings.php:106
+msgid ""
+"<i>Name.ly</i> offers WordPress blogs and many other services allowing to "
+"consolidate multiple sites, pages and profiles."
+msgstr ""
+
+#: ../qpm_settings.php:107
+msgid ""
+"All on catchy domain names, like many.at, brief.ly, sincere.ly, links2.me, "
+"thatis.me, of-cour.se, ... and hundreds more."
+msgstr ""
+
+#: ../qpm_settings.php:108
+msgid ""
+"<i>Name.ly/PRO</i> platform allows domain name owners to run similar sites "
+"under their own brand."
+msgstr ""
+
+#: ../qpm_settings.php:109
+msgid ""
+"<a href=\"http://namely.pro/\" target=\"_blank\"><i>Name.ly/PRO</i></a> is "
+"most known for being first WordPress driven product allowing reselling "
+"emails and sub-domains."
+msgstr ""

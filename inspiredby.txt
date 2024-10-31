@@ -1,0 +1,52 @@
+
+global $post; // relevant fields and values go below:
+
+//[ID] => #postid#
+
+//[post_author] => #userid#
+
+//[post_status] => publish
+//[post_status] => private
+
+//[comment_status] => open
+
+//[ping_status] => closed
+//[to_ping] => 
+//[pinged] => 
+
+//[post_type] => post
+//[post_type] => page
+
+//[post_mime_type] => 
+
+//[filter] => raw
+
+
+
+http://codex.wordpress.org/Function_Reference
+
+
+
+http://wordpress.tv/2009/01/14/setting-your-posts-or-entire-blog-to-private/
+http://wordpress.org/extend/plugins/private-only/
+http://wordpress.org/extend/plugins/absolute-privacy/
+http://wordpress.stackexchange.com/questions/20729/easiest-way-to-make-post-private-by-default
+http://wordpress.org/extend/plugins/private-post-by-default/
+http://wpmu.org/daily-tip-set-wordpress-posts-to-private-by-default/
+http://digwp.com/2010/05/private-content-posts-shortcode/
+http://wordpress.org/extend/plugins/advanced-post-manager/
+http://wordpress.org/extend/plugins/universal-post-manager/
+
+
+
+http://perishablepress.com/stupid-wordpress-tricks/
+
+
+
+http://wordpress.org/extend/plugins/admin-management-xtended/
+http://wordpress.org/extend/plugins/post-type-switcher/
+http://wordpress.org/extend/plugins/convert-post-types/
+http://wordpress.org/extend/plugins/ptypeconverter/
+http://wordpress.org/extend/plugins/post-type-convertr/
+http://wordpress.org/extend/plugins/vice-versa/
+http://wpmu.org/convert-wordpress-pages-to-posts-or-cpts/
